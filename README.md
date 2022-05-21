@@ -1,3 +1,10 @@
+Diving into Tailwind + Next.js with step by step commits following this cool hands-on practice video tutorial:
+
+- [Streamline. Let's Build & Deploy Responsive Portfolio Using Next.js & TailwindCSS From Scratch.](https://www.youtube.com/watch?v=wSpj6DLf4xs&t=173s)
+- [Original complete repo](https://github.com/Streamline6/design-portfolio)
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
