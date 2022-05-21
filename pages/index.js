@@ -1,5 +1,6 @@
 import Head from "next/head"
 import Navbar from "../components/Navbar"
+import HomePage from "./homePage"
 
 export default function Home() {
   return (
@@ -10,8 +11,7 @@ export default function Home() {
         <link rel="icon" href="/awf.ico" />
       </Head>
       <Navbar />
-
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+      <HomePage />
     </div>
   )
 }
